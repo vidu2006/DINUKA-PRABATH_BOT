@@ -6,7 +6,7 @@
   "success_url": "/",
 
   "env": {
-    "BOT_NUMBER":254703255099 {
+    "BOT_NUMBER": {
       "description": "Put the number here.",
       "required": true
     },  
@@ -16,7 +16,7 @@
       "required": true
     },
 
-    "SESSION_ID": PRABATH-MD~R7MQhRgI#YjAD-kKwltVc6_kAoZ908_N-yG_zLTJhLeMG7zU4v00 {
+    "SESSION_ID": {
       "description": "Enter session-id here",
       "required": false
     },
